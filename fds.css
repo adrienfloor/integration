@@ -1,0 +1,182 @@
+.container {
+  	background-image: url("backgroundnew2.png");
+  	background-image: no-repeat;
+  	position: center;
+  	background-image: absolute; 
+  	background-size: cover; 
+
+}
+* { color:white;
+
+ }
+
+ul { 
+	list-style-type: none;
+ }
+
+ footer { 
+ 	margin-left: 28%;
+ 	bottom: 0;
+ 	color: white;
+ }
+
+ footer span {
+ 	color: yellow;
+ }
+
+.second img {
+	border: solid yellow 3px;
+	float: left;
+	padding: 1%;
+	margin-right: 2%;
+} 
+
+
+.third img {
+	border: solid yellow 3px;
+	float: right;
+	padding: 1%;
+	margin-left: 1%;
+
+}
+
+span {
+	color: yellow;
+}
+
+h2, h1{
+	font-weight: bold;
+	
+}
+
+
+.mylinks p, .webdesign p {
+	color: grey;
+	border-top: solid 1px grey;
+	padding-top: 5%;
+	
+}
+
+.chiant {
+	border-bottom: solid 1px grey;
+	border-top: solid 1px grey;
+	color: grey;
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
+h2 {
+	border-top: solid 3px yellow;
+	
+}
+
+h4 {
+	background-color: yellow;
+	color: black;
+	font-weight: bold;
+}
+
+.right ul {
+	font-weight: bold;
+	padding-top: 0;
+	
+}
+
+.premier p {
+	font-weight: bold;
+}
+
+.under {
+	border-left: solid 4px yellow;
+	padding-left: 1%;
+}
+
+.quote {
+	background-color: #292929;
+	border-top: solid 2px yellow;
+	border-bottom: solid 2px yellow;
+	margin-bottom: 2%;
+	padding-top: 1%;
+	padding-bottom: 0;
+	padding-left: 1%;
+	padding-right: 1%;
+}	
+
+#bold {
+	font-weight: bold;
+}
+.boldy {
+	font-weight: bold;
+	color: yellow;
+}
+
+.premier p, .deuxieme p {
+	border-left: solid 3px yellow;
+	border-right: solid 3px yellow;
+	border-bottom:solid 3px yellow;
+	border-top: solid 3px yellow;
+
+
+}
+
+.premier p {
+	padding-right: 10%;
+	padding-left: 3%;
+}
+
+.premier .spany, .deuxieme .spany {
+	font-weight: bold;
+	background-color: yellow;
+	color:#FF1493;
+}
+
+.container-fluid {
+    position: relative;
+    top: 20%;
+    left: 15%;
+  
+
+}
+
+.right {
+	margin-top: 2.5%;
+	margin-left: 0.5%;
+}
+
+h1 {
+	font-size:60px;
+	margin-left: 10%;
+	font-weight: 900;
+}
+
+.premier {
+	padding-top: 10%;
+	right: 5%;
+	width: 240px;
+}
+
+.deuxieme {
+	padding-top: 3%;
+	width: 240px;
+}
+
+h2 {
+	padding-bottom: 0px;
+	font-weight: 900;
+}
+
+.left h2 {
+	font-size: 20px;
+}
+
+.right h2 {
+	font-size: 20px;	
+}
+
+.right p {
+	font-size: 15px;
+
+}
+
+
+
